@@ -1,0 +1,42 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+    h1 {
+        font-weight: bold;}
+    p{
+        font-family: Arial, Helvetica, sans-serif; 
+    }
+    #abrre1{
+        text-shadow: 1px 1px 4px black;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    #Para2{
+        font-family: Arial, Helvetica, sans-serif;
+        
+        
+    }
+    #list3{
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+    }
+   
+  
+
+        p.Cloudnative::first-letter {
+            color:black;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 200%;
+            font-weight: bold;
+          }
+          #Cloudnative{
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            font-size: 21px;
+            
+          }
+          p.cloudpara1{
+            font-weight: bold;
+          }
